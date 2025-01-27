@@ -2,7 +2,7 @@
 
 
   <h2>
-    <img src="../assets/img/WOXWEB LOGO.png" alt="LOGO">
+    <img style="transform: scale(1.1);" src="../assets/img/WOXWEB LOGO.png" alt="LOGO">
     Expense Tracker
   </h2>
 
